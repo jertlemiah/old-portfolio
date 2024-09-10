@@ -52,13 +52,13 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Jeremiah Plauche',
+    title: 'Portfolio of Jeremiah Plauché',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/jeremiah-plauch%C3%A9/',
-    // twitter: 'arif_szn',
+    linkedin: 'jeremiah-plauché',
+    twitter: 'Jertlemiah',
     // mastodon: 'arifszn@mastodon.social',
     // researchGate: '',
     // facebook: '',
@@ -83,20 +83,26 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    // 'PHP',
+    // 'Laravel',
+    // 'JavaScript',
+    // 'React.js',
+    // 'Node.js',
+    // 'Nest.js',
+    // 'MySQL',
+    // 'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Python',
+    'C/C++',
+    'C#/.NET',
+    'Java',
+    'Unity',
+    'Godot & GDScript',
+    // 'Docker',
+    // 'PHPUnit',
+    // 'CSS',
+    // 'Antd',
+    // 'Tailwind',
   ],
   experiences: [
     {
@@ -175,7 +181,7 @@ const CONFIG = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: true,
+    disableSwitch: false,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme

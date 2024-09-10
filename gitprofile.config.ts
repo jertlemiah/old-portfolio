@@ -23,10 +23,10 @@ const CONFIG = {
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
-      manual: {
-        // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
+      // manual: {
+      //   // Properties for manually specifying projects
+      //   projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+      // },
     },
     external: {
       header: 'My Projects',
@@ -52,31 +52,31 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Jeremiah Plauche',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/jeremiah-plauch%C3%A9/',
+    // twitter: 'arif_szn',
+    // mastodon: 'arifszn@mastodon.social',
+    // researchGate: '',
+    // facebook: '',
+    // instagram: '',
+    // reddit: '',
+    // threads: '',
+    // youtube: '', // example: 'pewdiepie'
+    // udemy: '',
+    // dribbble: '',
+    // behance: '',
+    // medium: 'arifszn',
+    // dev: 'arifszn',
+    // stackoverflow: '', // example: '1/jeff-atwood'
+    // skype: '',
+    // telegram: '',
+    // website: 'https://www.arifszn.com',
+    // phone: '',
+    email: 'jeremiah.plauche@gmail.com',
   },
   resume: {
     fileUrl:
